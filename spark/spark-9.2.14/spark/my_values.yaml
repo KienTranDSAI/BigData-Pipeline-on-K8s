@@ -1,0 +1,2 @@
+worker:
+  resourcesPreset: "large"  # Use a common preset instead of specifying individual resources
